@@ -21,4 +21,4 @@
 [![Ubuntu](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
-![snake gif](https://github.com/Brvini04/Brvini04/blob/output/github-contribution-grid-snake.svg
+![snake gif](https://github.com/Brvini04/Brvini04/blob/output/github-contribution-grid-snake.svg)
